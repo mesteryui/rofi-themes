@@ -1,0 +1,17 @@
+/**
+ *
+ * Author : CuerdOS Dev Team
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #001E0FFF;
+    background-alt: #A9B650FF;
+    foreground:     #FFFFFFFF;
+    search:         #9bbf9bFF;
+    selected:       #005028FF;
+    active:         #7CBF9EFF;
+    urgent:         #C2454EFF;
+    border:         #005028FF;
+}
